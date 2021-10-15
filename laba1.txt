@@ -1,2 +1,6 @@
 Hello, word
+<<<<<<< HEAD
 bye
+=======
+fghj
+>>>>>>> line2
